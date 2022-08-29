@@ -1,0 +1,36 @@
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .container2 {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block2 {
+    position: absolute;
+    top: 20px;
+    left: 350px;
+    background-color: white;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .box{
+    background-color: rgb(1, 1, 63);
+    padding: 5px;
+    border: 20px solid black;
+    margin: 10px;
+    width: 100%;
+  }
